@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pr_2</string>
+    <string name="button1">Преобразователь</string>
+    <string name="string">Напишите что нибудь</string>
+</resources>
